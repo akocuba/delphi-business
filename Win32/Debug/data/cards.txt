@@ -1,0 +1,32 @@
+B01;Idziesz na "START".
+B02;Bank pomyli³ siê na Twoj¹ korzyœæ, otrzymujesz 400$.
+B03;Idziesz do "wiêzienia". Nie przechodzisz przez "START". Nie otrzymujesz premii 400$.
+B04;Masz urodziny, otrzymujesz od ka¿dego gracza po 20$.
+B05;Otrzymujesz w spadku 20$.
+B06;P³acisz na budowê szpitala 400$.
+B07;Bank wyp³aca Ci nale¿ne 7% odsetek od kapita³ów, otrzymujesz 50$.
+B08;P³acisz koszty leczenia w wysokoœci 20$.
+B09;Otrzymujesz zwrot nadp³aconego podatku dochodowego 40$.
+B10;Zaj¹³eœ II miejsce w konkursie piêknoœci, otrzymujesz z banku 200$.
+B11;Idziesz do "Wiednia".
+B12;P³acisz za kartê 20$ lub ci¹gniesz "SZANSÊ" z drugiego zestawu.
+B13;Otrzymujesz roczn¹ rentê w wysokoœci 200$.
+B14;Wychodzisz wolny z "wiêzienia". Kartê nale¿y zachowaæ do wykorzystania lub sprzedania.
+B15;Z magazynu, w którym kupujesz otrzymujesz rabat w wysokoœci 20$.
+B16;P³acisz sk³adkê ubezpieczeniow¹ w wysokoœci 20$.
+R01;Idziesz do "Madrytu".
+R02;Bank wyp³aca Ci procenty w wysokoœci 100$.
+R03;Idziesz do "Kolei Wschodnich".
+R04;Bank wyp³aca Ci nale¿ne odsetki w wysokoœci 300$.
+R05;Idziesz do "Brukseli".
+R06;Pi³eœ w czasie pracy, p³acisz karê 40$.
+R07;Idziesz do "Neapolu".
+R08;P³acisz op³atê za szko³ê 300$.
+R09;Wychodzisz wolny z "wiêzienia". Kartê nale¿y zachowaæ do wykorzystania lub sprzedania.
+R10;Idziesz do "wiêzienia". Nie przechodzisz przez "START". Nie otrzymujesz premii 400$.
+R11;Rozwi¹za³eœ dobrze krzy¿ówkê. Jako I nagrodê otrzymujesz 200$.
+R12;Idziesz na "START".
+R13;Remontujesz swoje domy. P³acisz do banku za ka¿dy dom 50$, za ka¿dy hotel 200$.
+R14;Cofasz siê o 3 pola.
+R15;Zobowi¹zany jesteœ zmodernizowaæ swoje miasto. P³acisz do banku za ka¿dy dom 80$, za ka¿dy hotel 230$.
+R16;Mandat za szybk¹ jazdê. P³acisz 30$.
