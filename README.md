@@ -1,0 +1,4 @@
+# delphi-business
+
+This is a project I've made during a programming academia organized before an internship. It's a Monopoly-like game written fully in Delphi. The code is 100% mine, it was the first project created in Delphi, I've never learned this language before the academy. I worked on it all by myself, the teacher didn't interfere in the code, provided  only a general guidance and allowed us to work on our own. The project was rated highest among all projects done by participants of the academy.After the academy I was offered an internship for a year in that company.
+The idea of a game is not original, it is a more or less accurate copy of MONOPOLY, or to be exact, a polish, version of monopoly created somewhere in the 80's, still popular today despite most of the countries shown there are long gone (Benelux, Western Germany etc).
